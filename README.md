@@ -26,6 +26,5 @@
 <div align="center">
 
   <a href="https://instagram.com/camilalouiseg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "https://api.whatsapp.com/send?phone=5531986287654"><img src="https://img.shields.io/badge/-Whatsapp-%23333?style=for-the-badge&logo=whatsapp&logoColor=white%22%20target=%22_blank"></a>
   
 </div>
