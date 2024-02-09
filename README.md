@@ -1,7 +1,8 @@
 ### Olá!! Eu sou a Camila Louise
 
 - 🎓 Estou cursando Análise e Desenvolvimento de Sistemas
-- 💻 Formada em HTML5, CSS3 E JAVASCRIPT
+- 💻  HTML5, CSS3, JAVASCRIPT e TYPESCRIPT
+
 - ✏️ Estudando TYPESCRIPT
 - 📫 Meu e-mail: camilalouise@outlook.com
 
