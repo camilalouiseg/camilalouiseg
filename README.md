@@ -3,7 +3,7 @@
 - 🎓 Estou cursando Análise e Desenvolvimento de Sistemas
 - 💻  HTML5, CSS3, JAVASCRIPT e TYPESCRIPT
 
-- ✏️ Estudando TYPESCRIPT
+- ✏️ Estudando PYTHON
 - 📫 Meu e-mail: camilalouise@outlook.com
 
 
