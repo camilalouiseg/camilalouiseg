@@ -1,4 +1,4 @@
-### Olá!! Eu sou a Camila Louise
+### Olá! Eu sou a Camila Louise
 
 - 🎓 Estou cursando Análise e Desenvolvimento de Sistemas
 - 💻  HTML5, CSS3, JAVASCRIPT e TYPESCRIPT
